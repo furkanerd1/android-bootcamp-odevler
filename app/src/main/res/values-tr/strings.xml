@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">Homework</string>
+    <string name="app_name">Odevler</string>
     <string name="title">SOUNDLY</string>
     <string name="username">Furkan</string>
-    <string name="start_date">24 May 2018</string>
+    <string name="start_date">24 Mayıs 2018</string>
     <string name="type_1">Hip-Hop</string>
     <string name="type_2">Pop</string>
-    <string name="type_3">Classic</string>
-    <string name="singer">Favorite Singer :</string>
-    <string name="song">Favorite Song :</string>
+    <string name="type_3">Klasik</string>
+    <string name="singer">Favori Sanatçı :</string>
+    <string name="song">Favori Şarkı :</string>
     <string name="singer_ans">Fredd</string>
     <string name="song_ans">Kurtulmak</string>
     <string name="song_own">Ahiyan</string>
-    <string name="button">Follow</string>
+    <string name="button">Takip Et</string>
 
 </resources>
